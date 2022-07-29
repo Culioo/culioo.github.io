@@ -3,11 +3,11 @@
   <title>Daily Life</title>
   
   <subtitle>of A Coder</subtitle>
-  <link href="https://culioo.github.io/public/atom.xml" rel="self"/>
+  <link href="https://culioo.github.io/culioo.github.io/atom.xml" rel="self"/>
   
-  <link href="https://culioo.github.io/public/"/>
+  <link href="https://culioo.github.io/culioo.github.io/"/>
   <updated>2022-07-29T13:27:27.672Z</updated>
-  <id>https://culioo.github.io/public/</id>
+  <id>https://culioo.github.io/culioo.github.io/</id>
   
   <author>
     <name>Culioo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>First document</title>
-    <link href="https://culioo.github.io/public/2022/07/28/First-document/"/>
-    <id>https://culioo.github.io/public/2022/07/28/First-document/</id>
+    <link href="https://culioo.github.io/culioo.github.io/2022/07/28/First-document/"/>
+    <id>https://culioo.github.io/culioo.github.io/2022/07/28/First-document/</id>
     <published>2022-07-28T14:52:57.000Z</published>
     <updated>2022-07-29T13:27:27.672Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://culioo.github.io/public/2022/07/28/hello-world/"/>
-    <id>https://culioo.github.io/public/2022/07/28/hello-world/</id>
+    <link href="https://culioo.github.io/culioo.github.io/2022/07/28/hello-world/"/>
+    <id>https://culioo.github.io/culioo.github.io/2022/07/28/hello-world/</id>
     <published>2022-07-28T14:49:16.457Z</published>
     <updated>2022-07-29T13:26:56.088Z</updated>
     
